@@ -12,6 +12,7 @@ app.get('/movies', (req, res) => {
 		{ id: 2, title: 'The Godfather', year: 1972 },
 		{ id: 3, title: 'The Godfather: Part II', year: 1974 },
 		{ id: 4, title: 'The Dark Knight', year: 2008 },
+		{ id: 5, title: "Schindler's List", year: 1993 },
 	])
 })
 
